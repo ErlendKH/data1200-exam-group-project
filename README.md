@@ -16,4 +16,4 @@ Our final assignment includes an `index.html` file for our homepage which consis
 
 
 
-### Important notice: The original project was developed on the address "https://erlendkh.github.io". However, due to restructuring have I moved this project to a standalone repository which is accessible at "https://erlendkh.github.io/data1200-exam-group-project".
+### Important notice: The original project was developed on the address [https://erlendkh.github.io](https://erlendkh.github.io). However, due to restructuring have I moved this project to a standalone repository which is accessible at [https://erlendkh.github.io/data1200-exam-group-project](https://erlendkh.github.io/data1200-exam-group-project).
