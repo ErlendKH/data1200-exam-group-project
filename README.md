@@ -8,7 +8,7 @@
 
 ---
 
-Here is a link to the [live website](https://erlendkh.github.io/).
+Here is a link to the [live website](https://erlendkh.github.io/data1200-exam-group-project).
 
 ## Structure of project
 
@@ -16,4 +16,4 @@ Our final assignment includes an `index.html` file for our homepage which consis
 
 
 
-### Important notice: The original project was developed on the repository "ErlendKH.github.io" and used my GitHub page as root. However, due to restructuring have I moved this project to a standalone repository while updating the root page of "https://ErlendKH.github.io".
+### Important notice: The original project was developed on the address "https://erlendkh.github.io". However, due to restructuring have I moved this project to a standalone repository which is accessible at "https://ErlendKH.github.io/data1200-exam-group-project".
